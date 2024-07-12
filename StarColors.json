@@ -335,10 +335,11 @@
             "biome": {"name": "Hell", "factor":6},
             "cornerColor": 327680
         },
-        "6185727": {
+        "6252031": {
             "name": "CHROMATIC : GENESIS",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/9/91/Chromatic_genesis.gif.gif",
-            "rarity": 99999999
+            "rarity": 99999999,
+            "cornerColor": 7763597
         },
         "15122839": {
             "name": "ARCHANGEL",
