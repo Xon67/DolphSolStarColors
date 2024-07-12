@@ -107,7 +107,8 @@
         "5595903": {
             "name": "Nautilus",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/e/e2/NautilusAuraNight.gif",
-            "rarity": 70000
+            "rarity": 70000,
+            "cornerColor": 0
         },
         "8257503": {
             "name": "Permafrost",
