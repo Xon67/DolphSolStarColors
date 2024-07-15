@@ -77,7 +77,7 @@
             "mutations": [
                 {
                     "name": "Lunar : Full Moon [From Nighttime]",
-                    "image": "https://static.wikia.nocookie.net/sol-rng/images/b/b4/LunarFullMoonAura.gif",
+                    "image": "https://static.wikia.nocookie.net/sol-rng/images/1/11/LunarFMRework.gif",
                     "rarity": 500000,
                     "requirements": {
                         "is100k": 1
@@ -85,7 +85,7 @@
                 },
                 {
                     "name": "Lunar : Full Moon",
-                    "image": "https://static.wikia.nocookie.net/sol-rng/images/b/b4/LunarFullMoonAura.gif",
+                    "image": "https://static.wikia.nocookie.net/sol-rng/images/1/11/LunarFMRework.gif",
                     "rarity": 5000000,
                     "requirements": {
                         "is1m": 1
@@ -101,7 +101,7 @@
         },
         "16754944": {
             "name": "Flushed : Lobotomy",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/8/84/Flushed_Lobotomy_Collection.png",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/f/f6/FlushedLobotomyAura.gif",
             "rarity": 69000
         },
         "5595647": {
@@ -223,6 +223,12 @@
             "image": "https://static.wikia.nocookie.net/sol-rng/images/c/ca/Astral_gif.gif",
             "rarity": 1336000,
             "cornerColor": 1117213
+
+        },
+        "3618615": {
+            "name": "Undefined",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/b/b0/Undefined_Collection1.gif",
+            "rarity": 1111000
         },
         "5399551": {
             "name": "Gravitational",
@@ -238,7 +244,7 @@
         },
         "943242": {
             "name": "Poseidon",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/2/2e/PoseidonInGame.png",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/d/db/PosEra7.gif",
             "rarity": 4000000,
             "biome": {"name": "Rainy", "factor":4},
             "cornerColor": 141352
@@ -273,7 +279,7 @@
         },
         "7808256": {
             "name": "Hades",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/9/9d/HadesAura.gif",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/8/85/HadesCollection.gif",
             "rarity": 6666666,
             "biome": {"name": "Hell", "factor":6}
         },
@@ -292,7 +298,7 @@
         },
         "7642879": {
             "name": "Sailor",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/0/06/Sailor_Aura.png",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/e/e2/SailorCollectionEra7.gif",
             "rarity": 12000000,
             "biome": {"name": "Rainy", "factor":4},
             "cornerColor": 3289650
@@ -317,7 +323,7 @@
         },
         "6029232": {
             "name": "Matrix",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/4/43/RobloxPlayerBeta_Ie55pSxe44.gif",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/b/b0/MatrixCollections.gif",
             "rarity": 50000000,
             "cornerColor": 3184771
         },
