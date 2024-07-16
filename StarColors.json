@@ -230,13 +230,13 @@
             "image": "https://static.wikia.nocookie.net/sol-rng/images/b/b0/Undefined_Collection1.gif",
             "rarity": 1111000
         },
-        "5399551": {
+        "5333759": {
             "name": "Gravitational",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/6/62/Gravitationalgif.gif",
             "rarity": 2000000,
             "cornerColor": 3289650
         },
-        "5016575": {
+        "4951039": {
             "name": "Virtual",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/2/20/Virtual.gif", 
             "rarity": 2500000,
@@ -313,7 +313,7 @@
             "name": "CHROMATIC",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/c/c4/RobloxPlayerBeta_9sJxflFBDP.gif",
             "rarity": 20000000,
-            "cornerColor": 9975095
+            "cornerColor": 9581107
         },
         "13549311": {
             "name": "Ethereal",
@@ -341,7 +341,7 @@
             "biome": {"name": "Hell", "factor":6},
             "cornerColor": 327680
         },
-        "6186495": {
+        "6252031": {
             "name": "CHROMATIC : GENESIS",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/9/91/Chromatic_genesis.gif.gif",
             "rarity": 99999999,
