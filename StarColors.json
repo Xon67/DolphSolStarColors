@@ -29,7 +29,8 @@
         "16777215": {
             "name": "Powered",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/9/9a/Powered.gif",
-            "rarity": 16384
+            "rarity": 16384,
+            "cornerColor": 0
         },
         "5015039": {
             "name": "Aquatic",
@@ -104,10 +105,11 @@
             "image": "https://static.wikia.nocookie.net/sol-rng/images/f/f6/FlushedLobotomyAura.gif",
             "rarity": 69000
         },
-        "5595647": {
+        "5595903": {
             "name": "Nautilus",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/e/e2/NautilusAuraNight.gif",
-            "rarity": 70000
+            "rarity": 70000,
+            "cornerColor":0
         },
         "8257503": {
             "name": "Permafrost",
