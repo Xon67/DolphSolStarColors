@@ -26,12 +26,6 @@
             "image": "https://static.wikia.nocookie.net/sol-rng/images/1/14/RageHeatedAura.gif",
             "rarity": 12800
         },
-        "16777215": {
-            "name": "Powered",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/9/9a/Powered.gif",
-            "rarity": 16384,
-            "cornerColor": 0
-        },
         "5015039": {
             "name": "Aquatic",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/a/a9/AquaticAura.gif",
@@ -289,7 +283,13 @@
             "name": "HYPER-VOLT",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/d/d4/HpVl.gif",
             "rarity": 7500000,
-            "cornerColor": 3355443
+            "cornerColor": 2367282
+        },
+        "6509567": {
+            "name": "Twilight : Iridescent Memory",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/f/fc/Twilight_-_Iridescent_Memory_Collection.gif",
+            "rarity": 60000000,
+            "cornerColor": 7233432
         },
         "16744576": {
             "name": "STARSCOURGE",
