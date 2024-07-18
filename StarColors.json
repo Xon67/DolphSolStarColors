@@ -88,12 +88,6 @@
                 }
             ]
         },
-        "5466879": {
-            "name": "Starlight",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/2/22/StarlightCollection.gif",
-            "rarity": 50000,
-            "biome": {"name": "Starfall", "factor":10}
-        },
         "16754944": {
             "name": "Flushed : Lobotomy",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/f/f6/FlushedLobotomyAura.gif",
