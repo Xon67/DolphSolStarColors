@@ -213,12 +213,6 @@
             "image": "https://static.wikia.nocookie.net/sol-rng/images/c/ca/Astral_gif.gif",
             "rarity": 1336000,
             "cornerColor": 1117213
-
-        },
-        "3618615": {
-            "name": "Undefined",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/b/b0/Undefined_Collection1.gif",
-            "rarity": 1111000
         },
         "5729023": {
             "name": "Gravitational",
@@ -358,12 +352,6 @@
             "name": "Overture",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/e/e8/Overture_Collection.gif",
             "rarity": 150000000
-        },
-        "10078463": {
-            "name": "STARSCOURGE : RADIANT",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/1/16/Starscourge_Radiant_Gif2.gif",
-            "rarity": 100000000,
-            "biome": {"name": "Starfall", "factor":10}
         },
         "13034751": {
             "name": "Symphony",
